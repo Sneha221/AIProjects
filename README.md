@@ -1,6 +1,6 @@
 # AI Projects
 
-AI & Machine Learning Project Compilation
+
 Welcome to my curated collection of AI and Machine Learning projects! Each project explores key concepts in AI/ML, from classical algorithms to modern neural architectures, with hands-on implementations, visuals, and performance insights.
 
 Projects Included
