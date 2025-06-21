@@ -13,7 +13,7 @@ Welcome to my curated collection of AI and Machine Learning projects! Each proje
 | **Water Source Prediction Expert System** | Rule-based inference engine to recommend optimal water sources based on environmental factors | Decision Trees, Prolog Rules, User Interaction | [View Project](https://github.com/Sneha221/AIProjects/blob/main/Decision_Tree_Algorithm.pl) |
 | **Customer Churn Predictor** | Classification model to forecast customer churn in telecom datasets | Supervised Learning, Feature Transformation, Model Comparison | [View Project](https://github.com/Sneha221/AIProjects/blob/main/Customer%20Churn%20Prediction.ipynb) |
 | **NLP Tagging & Analysis Pipeline** | End-to-end POS & NER workflow with visualization, frequency analysis, and HMM tagging | POS Tagging, NER, Lemmatization, WordClouds, HMM | [View Project](https://github.com/Sneha221/AIProjects/blob/main/Linguistic%20Feature%20Analysis%20and%20Sequence%20Tagging%20using%20POS%20and%20NER%20Integration.ipynb) |
-| **LLM Safety Evaluator (PartyRock App)** | Lightweight tool to evaluate prompt safety risks and suggest mitigations | Prompt Engineering, Vulnerability Scoring, Ethical Risk Detection | [View Project](https://partyrock.aws/u/sneha221/ai-safety-evaluator)  |
+| **LLM Safety Evaluator (PartyRock App)** | Lightweight tool to evaluate prompt safety risks and suggest mitigations | Prompt Engineering, Vulnerability Scoring, Ethical Risk Detection | [View Project](https://partyrock.aws/u/SnehaBanerjee/310eVTdOY/SafeGuard-AI)  |
 
 
 ##  Skills & Tools Covered
